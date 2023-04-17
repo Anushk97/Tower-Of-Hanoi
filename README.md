@@ -1,4 +1,4 @@
-# Tower-Of-Hanoi
+# Tower-Of-Hanoi Problem
 
 The Tower of Hanoi is a mathematical puzzle invented by the French mathematician Édouard Lucas in 1883. 
 There is a story about an Indian temple in Kashi Vishwanath which contains a large room with three time-worn posts in it, 
