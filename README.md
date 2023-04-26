@@ -19,3 +19,8 @@ will lead to a state of having D1 on A, D2 on C and D3 on B. According to the si
 (D1:B→C), (D3:A→B) and (D1:C→A) where D1 is the smallest disk, D3 is the largest disk and (D2:A→C) means disk 2 (the middle disk) is moved from peg A to peg C.
 Given a state of n disks placed on pegs A, B and C with their sizes increasing from top to bottom, 
 we need to determine which peg the disks were initially placed, and how many moves there were to reach this state.
+
+Why this exercise?
+1. The idea of this exercise is to think logically and be able to implement algorithms that solves real world problems 
+2. This is a challenging variation that was presented to me during my masters course in Algo design and implementation at SMU, Singapore.
+3. This is one solution to this problem with a time complexity of O(n^2). This can also be solved by other methods like Depth for Search. 
